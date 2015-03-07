@@ -1,6 +1,6 @@
 {
   "name": "grunt-beml",
-  "description": "The best Grunt plugin ever.",
+  "description": "Grunt plugin for processing BEML templates",
   "version": "0.1.0",
   "homepage": "",
   "author": {

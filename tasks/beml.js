@@ -2,7 +2,7 @@ beml = require('beml');
 
 module.exports = function(grunt) {
 
-  grunt.registerMultiTask('beml', 'The best Grunt plugin ever.', function() {
+  grunt.registerMultiTask('beml', 'Plugin for processing BEML templates', function() {
     var options = this.options();
 
     this.files.forEach(function(f) {
