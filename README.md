@@ -1,6 +1,6 @@
 # grunt-beml
 
-> Plugin for processing [BEML](/zenwalker/node-beml) templates.
+> Plugin for processing [BEML](https://github.com/zenwalker/node-beml) templates.
 
 ## Installing
 
@@ -19,7 +19,7 @@ grunt.initConfig({
       modDlmtr: '_'
     },
     files: {
-      'dest/index.html': 'src/index.html',
+      'dest/index.html': 'src/index.html'
     },
   },
 });
