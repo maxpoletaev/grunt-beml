@@ -20,7 +20,7 @@ grunt.initConfig({
     },
     files: {
       'dest/index.html': 'src/index.html'
-    },
-  },
+    }
+  }
 });
 ```
